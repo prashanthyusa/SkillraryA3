@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import genericLibraries.BaseClass;
-
+//This test fails
 public class AddUserTest extends BaseClass {
 	@Test
 	public void addUserTest() {
